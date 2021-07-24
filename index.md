@@ -5,7 +5,7 @@ Hi, yes, hello.
 
 [Youtube](https://www.youtube.com/channel/UCkqQKVsm-dTMmKf7FgAx0PA)
 
-[About Page](45gd.github.io/aboutme)
+[About Page](aboutme)
 
 ![A](https://www.publicdomainpictures.net/pictures/290000/velka/cute-pedigree-puppy-dog.jpg)
 
