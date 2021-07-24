@@ -8,4 +8,4 @@ Hi, yes, hello.
 ![A](https://www.publicdomainpictures.net/pictures/290000/velka/cute-pedigree-puppy-dog.jpg)
 
 
-```[![ImageAltText](ImageAdress)](Link)
+<!-- [![ImageAltText](ImageAdress)](Link) -->
